@@ -1,3 +1,20 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
 
+.splash {
+  height: 80vh;
+  position: relative;
+  background-image: url("https://i.postimg.cc/KvJkXJz9/header-img.jpg");
+  background-position: center center;
+  background-size: cover;
+  /*background-attachment: fixed;*/
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+.splash-inner {
+  height: 100%;
+  width: 100%;
+  color: aliceblue;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNDLHNCQUFBO0FDQ0Q7O0FERUE7RUFDSSxZQUFBO0VBQ0Esa0JBQUE7RUFDQSxxRUFBQTtFQUNBLGtDQUFBO0VBQ0Esc0JBQUE7RUFDQSxnQ0FBQTtBQ0NKOztBREVBO0VBQ0ksWUFBQTtFQUNBLFdBQUE7RUFDQSxnQkFBQTtBQ0NKIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */

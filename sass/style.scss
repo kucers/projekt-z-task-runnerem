@@ -1,0 +1,20 @@
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+.splash {
+    height: 80vh;
+    position: relative;
+    background-image: url('https://i.postimg.cc/KvJkXJz9/header-img.jpg');
+    background-position: center center;
+    background-size: cover;
+    /*background-attachment: fixed;*/
+}
+
+.splash-inner {
+    height: 100%;
+    width: 100%;
+    color: aliceblue;
+}
+
+
