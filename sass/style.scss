@@ -1,7 +1,3 @@
-*, *::before, *::after {
-	box-sizing: border-box;
-}
-
 .splash {
     height: 80vh;
     position: relative;
@@ -16,5 +12,16 @@
     width: 100%;
     color: aliceblue;
 }
+
+.services {
+    text-align:center;
+}
+
+.services i {
+    font-size: 40px;
+    color: yellow;    
+}
+
+
 
 
