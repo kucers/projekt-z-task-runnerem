@@ -1,6 +1,8 @@
 /* Pytania */
 /*
 1. Nie moge zmienic coloru logo
+2. Jak ustawic wymiary cart
+
 
 
 */
@@ -43,6 +45,11 @@
 	width: 100%;
 	height: 300px;
 	object-fit: cover;
+}
+
+.stopka i {
+    font-size: 30px;
+    padding: 5px;
 }
 
 
