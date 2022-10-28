@@ -1,3 +1,9 @@
+/* Pytania */
+/*
+1. Nie moge zmienic coloru logo
+
+
+*/
 .splash {
     height: 80vh;
     position: relative;
@@ -11,6 +17,12 @@
     height: 100%;
     width: 100%;
     color: aliceblue;
+    text-align:center;
+}
+
+.logo {
+    font-size: 30px;
+    font-style: italic;
 }
 
 .services {
