@@ -18,13 +18,14 @@
 .splash-inner {
     height: 100%;
     width: 100%;
-    color: aliceblue;
     text-align:center;
+    color: aliceblue;
 }
 
 .logo {
     font-size: 30px;
     font-style: italic;
+    color: darkkhaki !important;
 }
 
 .services {
@@ -33,12 +34,16 @@
 
 .services i {
     font-size: 40px;
-    color: yellow;    
+    color: rgb(247, 247, 132); 
+    border: 5px solid;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 50px;
 }
 
 .portfolio {
     text-align:center;
-    background-color: darkgray;
+    background-color:rgb(243, 243, 243);
 }
 
 .card img {
